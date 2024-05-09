@@ -1,17 +1,24 @@
 <img align="center" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
 
-### GitHub Stats
+### 📈 GitHub Stats:
 
-<p align="left"><img src="https://raw.githubusercontent.com/argusguardian/argusguardian/main/github-metrics.svg" /></p>
+<p align="left"><img src="https://raw.githubusercontent.com/Argusguardian/argusguardian/main/github-metrics.svg" /></p>
 
-### ⭐ Inspiring stars
+### 🌱 My latest projects:
 
-- [runtipi](https://github.com/runtipi/runtipi) - Runtipi is a homeserver for everyone! One command setup, one click installs for your favorites self-hosted apps. ✨
-- [pocketbase ](https://github.com/pocketbase/pocketbase) - Open Source real-time Backend in 1 file.
-- [puter](https://github.com/HeyPuter/puter) - 🌐 The Internet OS! Free, Open-Source, and Self-Hostable.
-- [siduck/chadwm](https://github.com/siduck/chadwm) - Making dwm as beautiful as possible!
+- [ArgusGuardian/argusguardian](https://github.com/ArgusGuardian/argusguardian) - Profile Summary
+- [ArgusGuardian/dmenu](https://github.com/ArgusGuardian/dmenu) - my demu build
+- [ArgusGuardian/dwmblocks](https://github.com/ArgusGuardian/dwmblocks) - my dwmblocks build
+- [ArgusGuardian/st](https://github.com/ArgusGuardian/st) - my st build
+- [ArgusGuardian/dwm](https://github.com/ArgusGuardian/dwm) - my dwm build
+### ⭐ Recent Stars:
 
-### 📰 Recent Blog Posts
+- [builtbybel/Winpilot](https://github.com/builtbybel/Winpilot) - The manic cousin of Microsoft Copilot
+- [techbarrack/terminal-hugo-theme](https://github.com/techbarrack/terminal-hugo-theme) - A theme for hugo made using tailwind CSS library and mono font family
+- [LordMathis/hugo-theme-nix](https://github.com/LordMathis/hugo-theme-nix) - Nix is a simple, minimal theme for Hugo
+- [zeon-studio/hugoplate](https://github.com/zeon-studio/hugoplate) - Hugoplate is a free starter template built with Hugo and TailwindCSS that will save you hours of work.
+- [pinokiocomputer/program.pinokio.computer](https://github.com/pinokiocomputer/program.pinokio.computer) - 
+### 📰 Recent Blog Posts:
 
 - [SVB, First block?](https://alaaelhannaoui.me/blog/svb-collapse/)
 - [Open source, a mine for knowledge](https://alaaelhannaoui.me/blog/open-source/)
