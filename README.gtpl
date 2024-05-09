@@ -1,18 +1,18 @@
 <img align="center" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
 
-### 📈 GitHub Stats
+### 📈 GitHub Stats:
 
 <p align="left"><img src="https://raw.githubusercontent.com/Argusguardian/argusguardian/main/github-metrics.svg" /></p>
 
-### 🌱 My latest projects
+### 🌱 My latest projects:
 {{ range recentRepos 5 }}
 - [{{ .Name }}]({{ .URL }}) - {{ .Description }}
 {{- end }}
-### ⭐ Recent Stars
+### ⭐ Recent Stars:
 {{ range recentStars 5 }}
 - [{{ .Repo.Name }}]({{ .Repo.URL }}) - {{ .Repo.Description }}
 {{- end }}
-### 📰 Recent Blog Posts
+### 📰 Recent Blog Posts:
 
 - [SVB, First block?](https://alaaelhannaoui.me/blog/svb-collapse/)
 - [Open source, a mine for knowledge](https://alaaelhannaoui.me/blog/open-source/)
