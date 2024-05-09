@@ -7,7 +7,7 @@
 ### ⭐ Inspiring stars
 
 - [runtipi](https://github.com/runtipi/runtipi) - Runtipi is a homeserver for everyone! One command setup, one click installs for your favorites self-hosted apps. ✨
-- [pocketbase ](https://github.com/pocketbase/pocketbase) - The manic cousin of Microsoft Copilot
+- [pocketbase ](https://github.com/pocketbase/pocketbase) - Open Source real-time Backend in 1 file.
 - [puter](https://github.com/HeyPuter/puter) - 🌐 The Internet OS! Free, Open-Source, and Self-Hostable.
 - [siduck/chadwm](https://github.com/siduck/chadwm) - Making dwm as beautiful as possible!
 
