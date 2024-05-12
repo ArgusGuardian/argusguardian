@@ -13,11 +13,11 @@
 - [ArgusGuardian/dwm](https://github.com/ArgusGuardian/dwm) - my dwm build
 ### ⭐ Recent Stars:
 
-- [CorentinTh/it-tools](https://github.com/CorentinTh/it-tools) - Collection of handy online tools for developers, with great UX. 
-- [dinaashraf20003/Software-Internship-Guide](https://github.com/dinaashraf20003/Software-Internship-Guide) - Software Internship Guide for Egyptian Undergraduates
-- [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop, and alternative to TeamViewer.
-- [toeverything/AFFiNE](https://github.com/toeverything/AFFiNE) - There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use. 
-- [bitwarden/clients](https://github.com/bitwarden/clients) - Bitwarden client applications (web, browser extension, desktop, and cli)
+- [haidy20/Django-Labs](https://github.com/haidy20/Django-Labs) - Open Source ITI Tasks
+- [haidy20/Nersery-System-ITI](https://github.com/haidy20/Nersery-System-ITI) - 
+- [sammorozov/sammorozov](https://github.com/sammorozov/sammorozov) - 
+- [lydiahallie/javascript-questions](https://github.com/lydiahallie/javascript-questions) - A long list of (advanced) JavaScript questions, and their explanations :sparkles:  
+- [tigerabrodi/css-for-js-devs-notes](https://github.com/tigerabrodi/css-for-js-devs-notes) - Notes I took when going through the course CSS for JavaScript Developers.
 ### 📰 Recent Blog Posts:
 
 - [SVB, First block?](https://alaaelhannaoui.me/blog/svb-collapse/)
