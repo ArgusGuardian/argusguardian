@@ -13,11 +13,11 @@
 - [ArgusGuardian/dwm](https://github.com/ArgusGuardian/dwm) - my dwm build
 ### ⭐ Recent Stars:
 
-- [haidy20/Django-Labs](https://github.com/haidy20/Django-Labs) - Open Source ITI Tasks
-- [haidy20/Nersery-System-ITI](https://github.com/haidy20/Nersery-System-ITI) - 
-- [sammorozov/sammorozov](https://github.com/sammorozov/sammorozov) - 
-- [lydiahallie/javascript-questions](https://github.com/lydiahallie/javascript-questions) - A long list of (advanced) JavaScript questions, and their explanations :sparkles:  
-- [tigerabrodi/css-for-js-devs-notes](https://github.com/tigerabrodi/css-for-js-devs-notes) - Notes I took when going through the course CSS for JavaScript Developers.
+- [stefvndev/coindom-crypto](https://github.com/stefvndev/coindom-crypto) - Crypto search app 🪙
+- [stefvndev/stefvndev](https://github.com/stefvndev/stefvndev) - Config files for my GitHub profile.
+- [stefvndev/Gymate](https://github.com/stefvndev/Gymate) - Website for Gym enthusiasts 🏋️
+- [stefvndev/Minimalist-E-commerce](https://github.com/stefvndev/Minimalist-E-commerce) - Minimalist E-commerce Store 🛒
+- [stefvndev/car-rental](https://github.com/stefvndev/car-rental) - Website for renting cars 🚗
 ### 📰 Recent Blog Posts:
 
 - [SVB, First block?](https://alaaelhannaoui.me/blog/svb-collapse/)
