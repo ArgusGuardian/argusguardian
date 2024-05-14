@@ -13,11 +13,11 @@
 - [ArgusGuardian/dwm](https://github.com/ArgusGuardian/dwm) - my dwm build
 ### ⭐ Recent Stars:
 
+- [leaderiop/dwm-status](https://github.com/leaderiop/dwm-status) - a small tool for providing system status information in dwm
 - [stefvndev/coindom-crypto](https://github.com/stefvndev/coindom-crypto) - Crypto search app 🪙
 - [stefvndev/stefvndev](https://github.com/stefvndev/stefvndev) - Config files for my GitHub profile.
 - [stefvndev/Gymate](https://github.com/stefvndev/Gymate) - Website for Gym enthusiasts 🏋️
 - [stefvndev/Minimalist-E-commerce](https://github.com/stefvndev/Minimalist-E-commerce) - Minimalist E-commerce Store 🛒
-- [stefvndev/car-rental](https://github.com/stefvndev/car-rental) - Website for renting cars 🚗
 ### 📰 Recent Blog Posts:
 
 - [SVB, First block?](https://alaaelhannaoui.me/blog/svb-collapse/)
