@@ -13,11 +13,11 @@
 - [ArgusGuardian/dwm](https://github.com/ArgusGuardian/dwm) - my dwm build
 ### ⭐ Recent Stars:
 
+- [GramAddict/bot](https://github.com/GramAddict/bot) - Completely free and open-source human-like Instagram bot. Powered by UIAutomator2 and compatible with basically any Android device 5.0&#43; that can run Instagram - real or emulated.
+- [huaying/instagram-crawler](https://github.com/huaying/instagram-crawler) - Get Instagram posts/profile/hashtag data without using Instagram API
 - [amr-hc/Crowdfunding-Web](https://github.com/amr-hc/Crowdfunding-Web) - 
 - [leaderiop/dwm-status](https://github.com/leaderiop/dwm-status) - a small tool for providing system status information in dwm
 - [stefvndev/coindom-crypto](https://github.com/stefvndev/coindom-crypto) - Crypto search app 🪙
-- [stefvndev/stefvndev](https://github.com/stefvndev/stefvndev) - Config files for my GitHub profile.
-- [stefvndev/Gymate](https://github.com/stefvndev/Gymate) - Website for Gym enthusiasts 🏋️
 ### 📰 Recent Blog Posts:
 
 - [SVB, First block?](https://alaaelhannaoui.me/blog/svb-collapse/)
