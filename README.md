@@ -6,7 +6,7 @@
 
 ### 🌱 My latest projects:
 
-- [ArgusGuardian/alaaelhannaoui2](https://github.com/ArgusGuardian/alaaelhannaoui2) - updated website
+- [ArgusGuardian/alaaelhannaoui2](https://github.com/ArgusGuardian/alaaelhannaoui2) - updated
 - [ArgusGuardian/argusguardian](https://github.com/ArgusGuardian/argusguardian) - Profile Summary
 - [ArgusGuardian/dmenu](https://github.com/ArgusGuardian/dmenu) - my demu build
 - [ArgusGuardian/dwmblocks](https://github.com/ArgusGuardian/dwmblocks) - my dwmblocks build
