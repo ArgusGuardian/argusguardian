@@ -13,11 +13,11 @@
 - [ArgusGuardian/st](https://github.com/ArgusGuardian/st) - my st build
 ### ⭐ Recent Stars:
 
+- [iamadamdev/bypass-paywalls-chrome](https://github.com/iamadamdev/bypass-paywalls-chrome) - Bypass Paywalls web browser extension for Chrome and Firefox.
 - [salesagility/SuiteCRM](https://github.com/salesagility/SuiteCRM) - SuiteCRM - Open source CRM for the world
 - [mohammedfathi92/perfex-powerful-open-source-crm](https://github.com/mohammedfathi92/perfex-powerful-open-source-crm) - Please do not send pull requests and issues.
 - [fusionpbx/fusionpbx](https://github.com/fusionpbx/fusionpbx) - Official FusionPBX - A full-featured domain based multi-tenant PBX and voice switch for FreeSwitch.
 - [nomic-ai/gpt4all](https://github.com/nomic-ai/gpt4all) - gpt4all: run open-source LLMs anywhere
-- [Dolibarr/dolibarr](https://github.com/Dolibarr/dolibarr) - Dolibarr ERP CRM is a modern software package to manage your company or foundation&#39;s activity (contacts, suppliers, invoices, orders, stocks, agenda, accounting, ...). it&#39;s an open source Web application (written in PHP) designed for businesses of any sizes, foundations and freelancers.
 ### 📰 Recent Blog Posts:
 
 - [SVB, First block?](https://alaaelhannaoui.me/blog/svb-collapse/)
