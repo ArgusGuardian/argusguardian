@@ -13,11 +13,11 @@
 - [ArgusGuardian/st](https://github.com/ArgusGuardian/st) - my st build
 ### ⭐ Recent Stars:
 
+- [markshust/docker-magento](https://github.com/markshust/docker-magento) - Mark Shust&#39;s Docker Configuration for Magento
 - [fail2ban/fail2ban](https://github.com/fail2ban/fail2ban) - Daemon to ban hosts that cause multiple authentication errors
 - [magento/magento2](https://github.com/magento/magento2) - Prior to making any Submission(s), you must sign an Adobe Contributor License Agreement, available here at: https://opensource.adobe.com/cla.html. All Submissions you make to Adobe Inc. and its affiliates, assigns and subsidiaries (collectively “Adobe”) are subject to the terms of the Adobe Contributor License Agreement.
 - [iamadamdev/bypass-paywalls-chrome](https://github.com/iamadamdev/bypass-paywalls-chrome) - Bypass Paywalls web browser extension for Chrome and Firefox.
 - [salesagility/SuiteCRM](https://github.com/salesagility/SuiteCRM) - SuiteCRM - Open source CRM for the world
-- [mohammedfathi92/perfex-powerful-open-source-crm](https://github.com/mohammedfathi92/perfex-powerful-open-source-crm) - Please do not send pull requests and issues.
 ### 📰 Recent Blog Posts:
 
 - [SVB, First block?](https://alaaelhannaoui.me/blog/svb-collapse/)
