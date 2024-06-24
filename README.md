@@ -6,11 +6,11 @@
 
 ### 🌱 My latest projects:
 
-- [ArgusGuardian/alaaelhannaoui2](https://github.com/ArgusGuardian/alaaelhannaoui2) - updated
+- [ArgusGuardian/Magento_product_scrapper](https://github.com/ArgusGuardian/Magento_product_scrapper) - Custom magento product scrapper
 - [ArgusGuardian/argusguardian](https://github.com/ArgusGuardian/argusguardian) - Profile Summary
-- [ArgusGuardian/dmenu](https://github.com/ArgusGuardian/dmenu) - my demu build
-- [ArgusGuardian/dwmblocks](https://github.com/ArgusGuardian/dwmblocks) - my dwmblocks build
-- [ArgusGuardian/st](https://github.com/ArgusGuardian/st) - my st build
+- [ArgusGuardian/AirBnB_clone](https://github.com/ArgusGuardian/AirBnB_clone) - AirBnB clone project
+- [ArgusGuardian/my_dwm_build](https://github.com/ArgusGuardian/my_dwm_build) - 
+- [ArgusGuardian/dotfiles](https://github.com/ArgusGuardian/dotfiles) - 
 ### ⭐ Recent Stars:
 
 - [markshust/docker-magento](https://github.com/markshust/docker-magento) - Mark Shust&#39;s Docker Configuration for Magento
