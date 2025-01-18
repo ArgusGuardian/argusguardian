@@ -13,11 +13,11 @@
 - [ArgusGuardian/dotfiles](https://github.com/ArgusGuardian/dotfiles) - 
 ### ⭐ Recent Stars:
 
+- [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400&#43; integrations.
 - [kgretzky/evilginx](https://github.com/kgretzky/evilginx) - PLEASE USE NEW VERSION: https://github.com/kgretzky/evilginx2
 - [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
 - [aidenybai/react-scan](https://github.com/aidenybai/react-scan) - Scan for React performance issues and eliminate slow renders in your app
 - [donvito/bolt-tweetdeck](https://github.com/donvito/bolt-tweetdeck) - Created with StackBlitz ⚡️
-- [t3dotgg/quickpic](https://github.com/t3dotgg/quickpic) - Turn SVGs into high resolution PNGs in 2 clicks. Built because Theo was mad.
 ### 📰 Recent Blog Posts:
 
 - [SVB, First block?](https://alaaelhannaoui.me/blog/svb-collapse/)
