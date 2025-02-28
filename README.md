@@ -8,9 +8,9 @@
 
 - [ArgusGuardian/Magento_product_scrapper](https://github.com/ArgusGuardian/Magento_product_scrapper) - Custom magento product scrapper
 - [ArgusGuardian/argusguardian](https://github.com/ArgusGuardian/argusguardian) - Profile Summary
+- [ArgusGuardian/dmenu](https://github.com/ArgusGuardian/dmenu) - my demu build
+- [ArgusGuardian/dwmblocks](https://github.com/ArgusGuardian/dwmblocks) - my dwmblocks build
 - [ArgusGuardian/st](https://github.com/ArgusGuardian/st) - my st build
-- [ArgusGuardian/AirBnB_clone](https://github.com/ArgusGuardian/AirBnB_clone) - AirBnB clone project
-- [ArgusGuardian/my_dwm_build](https://github.com/ArgusGuardian/my_dwm_build) - 
 ### ⭐ Recent Stars:
 
 - [mishushakov/llm-scraper](https://github.com/mishushakov/llm-scraper) - Turn any webpage into structured data using LLMs
