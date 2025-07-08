@@ -13,11 +13,11 @@
 - [ArgusGuardian/st](https://github.com/ArgusGuardian/st) - my st build
 ### ⭐ Recent Stars:
 
+- [jaypyles/Scraperr](https://github.com/jaypyles/Scraperr) - Self-hosted webscraper.
 - [twentyhq/twenty](https://github.com/twentyhq/twenty) - Building a modern alternative to Salesforce, powered by the community.
 - [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) - FULL v0, Cursor, Manus, Same.dev, Lovable, Devin, Replit Agent, Windsurf Agent, VSCode Agent, Dia Browser, Trae AI &amp; Cluely (And other Open Sourced) System Prompts, Tools &amp; AI Models.
 - [yeongpin/cursor-free-vip](https://github.com/yeongpin/cursor-free-vip) - [Support 0.49.x]（Reset Cursor AI MachineID &amp; Bypass Higher Token Limit） Cursor Ai ，自动重置机器ID ， 免费升级使用Pro功能: You&#39;ve reached your trial request limit. / Too many free trial accounts used on this machine. Please upgrade to pro. We have this limit in place to prevent abuse. Please let us know if you believe this is a mistake.
 - [mishushakov/llm-scraper](https://github.com/mishushakov/llm-scraper) - Turn any webpage into structured data using LLMs
-- [JaKooLit/Fedora-Hyprland](https://github.com/JaKooLit/Fedora-Hyprland) - For automated installation of Hyprland on Fedora (latest release) or any Fedora based distros
 ### 📰 Recent Blog Posts:
 
 - [SVB, First block?](https://alaaelhannaoui.me/blog/svb-collapse/)
