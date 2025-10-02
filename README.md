@@ -6,11 +6,7 @@
 
 ### 🌱 My latest projects:
 
-- [ArgusGuardian/Magento_product_scrapper](https://github.com/ArgusGuardian/Magento_product_scrapper) - Custom magento product scrapper
 - [ArgusGuardian/argusguardian](https://github.com/ArgusGuardian/argusguardian) - Profile Summary
-- [ArgusGuardian/dmenu](https://github.com/ArgusGuardian/dmenu) - my demu build
-- [ArgusGuardian/dwmblocks](https://github.com/ArgusGuardian/dwmblocks) - my dwmblocks build
-- [ArgusGuardian/st](https://github.com/ArgusGuardian/st) - my st build
 ### ⭐ Recent Stars:
 
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source &amp; self-hostable Heroku / Netlify / Vercel alternative.
