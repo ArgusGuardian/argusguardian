@@ -9,11 +9,11 @@
 - [ArgusGuardian/argusguardian](https://github.com/ArgusGuardian/argusguardian) - Profile Summary
 ### ⭐ Recent Stars:
 
+- [9shambhu/n8n](https://github.com/9shambhu/n8n) - n8n workflows linkedin
 - [andrewyng/aisuite](https://github.com/andrewyng/aisuite) - Simple, unified interface to multiple Generative AI providers 
 - [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
 - [baptisteArno/typebot.io](https://github.com/baptisteArno/typebot.io) - 💬 Typebot is a powerful chatbot builder that you can self-host.
 - [yorkeccak/finance](https://github.com/yorkeccak/finance) - The world&#39;s most powerful open-source financial AI assistant - Access institutional-grade financial data, run complex analyses, and create stunning visualizations, all through natural conversation.
-- [inboundemail/inbound](https://github.com/inboundemail/inbound) - email infrastructure for agent and indie devs
 ### 📰 Recent Blog Posts:
 
 - [SVB, First block?](https://alaaelhannaoui.me/blog/svb-collapse/)
