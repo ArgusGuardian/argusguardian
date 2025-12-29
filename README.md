@@ -9,11 +9,11 @@
 - [ArgusGuardian/argusguardian](https://github.com/ArgusGuardian/argusguardian) - Profile Summary
 ### ⭐ Recent Stars:
 
+- [GhufranBarcha/n8n_ai_agents](https://github.com/GhufranBarcha/n8n_ai_agents) - This repo contain all my AI agentic workflow in n8n
+- [lumpinif/deepcrawl](https://github.com/lumpinif/deepcrawl) - 100% free and full open-source edge Firecrawl alternative with better links extraction for agents - that you can deploy to cloudflare or vercel by yourself.
 - [9shambhu/n8n](https://github.com/9shambhu/n8n) - n8n workflows linkedin
 - [andrewyng/aisuite](https://github.com/andrewyng/aisuite) - Simple, unified interface to multiple Generative AI providers 
 - [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
-- [baptisteArno/typebot.io](https://github.com/baptisteArno/typebot.io) - 💬 Typebot is a powerful chatbot builder that you can self-host.
-- [yorkeccak/finance](https://github.com/yorkeccak/finance) - The world&#39;s most powerful open-source financial AI assistant - Access institutional-grade financial data, run complex analyses, and create stunning visualizations, all through natural conversation.
 ### 📰 Recent Blog Posts:
 
 - [SVB, First block?](https://alaaelhannaoui.me/blog/svb-collapse/)
