@@ -9,11 +9,11 @@
 - [ArgusGuardian/argusguardian](https://github.com/ArgusGuardian/argusguardian) - Profile Summary
 ### ⭐ Recent Stars:
 
+- [absadiki/whatsapp-msgstore-viewer](https://github.com/absadiki/whatsapp-msgstore-viewer) - Free, open source and cross-platform app to decrypt, read and view the Whatsapp msgstore.db database
+- [HackUnderway/SearchPhone](https://github.com/HackUnderway/SearchPhone) - 𝐒𝐞𝐚𝐫𝐜𝐡 𝐏𝐡𝐨𝐧𝐞 is a tool for looking up linked phone number information, which uses the Phone Number Analyzer API from the RAPIDAPI website, developed for use with Python from the terminal. 👁
+- [s41r4j/phomber](https://github.com/s41r4j/phomber) - [PH0MBER]: An open source infomation grathering &amp; reconnaissance framework!
 - [GhufranBarcha/n8n_ai_agents](https://github.com/GhufranBarcha/n8n_ai_agents) - This repo contain all my AI agentic workflow in n8n
 - [lumpinif/deepcrawl](https://github.com/lumpinif/deepcrawl) - 100% free and full open-source edge Firecrawl alternative with better links extraction for agents - that you can deploy to cloudflare or vercel by yourself.
-- [9shambhu/n8n](https://github.com/9shambhu/n8n) - n8n workflows linkedin
-- [andrewyng/aisuite](https://github.com/andrewyng/aisuite) - Simple, unified interface to multiple Generative AI providers 
-- [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
 ### 📰 Recent Blog Posts:
 
 - [SVB, First block?](https://alaaelhannaoui.me/blog/svb-collapse/)
