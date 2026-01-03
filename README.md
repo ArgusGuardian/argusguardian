@@ -6,6 +6,7 @@
 
 ### 🌱 My latest projects:
 
+- [ArgusGuardian/followup_engine](https://github.com/ArgusGuardian/followup_engine) - followup_engine
 - [ArgusGuardian/argusguardian](https://github.com/ArgusGuardian/argusguardian) - Profile Summary
 ### ⭐ Recent Stars:
 
