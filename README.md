@@ -10,11 +10,11 @@
 - [ArgusGuardian/argusguardian](https://github.com/ArgusGuardian/argusguardian) - Profile Summary
 ### ⭐ Recent Stars:
 
+- [gyoridavid/ai_agents_az](https://github.com/gyoridavid/ai_agents_az) - 
 - [0x0be/yesitsme](https://github.com/0x0be/yesitsme) - Simple OSINT script to find Instagram profiles by name and e-mail/phone 
 - [HKUDS/DeepTutor](https://github.com/HKUDS/DeepTutor) - &#34;DeepTutor: AI-Powered Personalized Learning Assistant&#34;
 - [absadiki/whatsapp-msgstore-viewer](https://github.com/absadiki/whatsapp-msgstore-viewer) - Free, open source and cross-platform app to decrypt, read and view the Whatsapp msgstore.db database
 - [HackUnderway/SearchPhone](https://github.com/HackUnderway/SearchPhone) - 𝐒𝐞𝐚𝐫𝐜𝐡 𝐏𝐡𝐨𝐧𝐞 is a tool for looking up linked phone number information, which uses the Phone Number Analyzer API from the RAPIDAPI website, developed for use with Python from the terminal. 👁
-- [s41r4j/phomber](https://github.com/s41r4j/phomber) - [PH0MBER]: An open source infomation grathering &amp; reconnaissance framework!
 ### 📰 Recent Blog Posts:
 
 - [SVB, First block?](https://alaaelhannaoui.me/blog/svb-collapse/)
