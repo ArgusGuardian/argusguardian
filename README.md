@@ -10,11 +10,11 @@
 - [ArgusGuardian/argusguardian](https://github.com/ArgusGuardian/argusguardian) - Profile Summary
 ### ⭐ Recent Stars:
 
+- [kinghacker0/WhatsApp-OSINT](https://github.com/kinghacker0/WhatsApp-OSINT) - OSINT tool for WhatsApp that allows you to obtain profile pictures, verify Business accounts, check status and user information, analyze linked devices, review privacy settings, and access complete data using the RapidAPI WhatsApp OSINT API. Supports 6 endpoints.
 - [torvalds/linux](https://github.com/torvalds/linux) - Linux kernel source tree
 - [gyoridavid/ai_agents_az](https://github.com/gyoridavid/ai_agents_az) - 
 - [0x0be/yesitsme](https://github.com/0x0be/yesitsme) - Simple OSINT script to find Instagram profiles by name and e-mail/phone 
 - [HKUDS/DeepTutor](https://github.com/HKUDS/DeepTutor) - &#34;DeepTutor: AI-Powered Personalized Learning Assistant&#34;
-- [absadiki/whatsapp-msgstore-viewer](https://github.com/absadiki/whatsapp-msgstore-viewer) - Free, open source and cross-platform app to decrypt, read and view the Whatsapp msgstore.db database
 ### 📰 Recent Blog Posts:
 
 - [SVB, First block?](https://alaaelhannaoui.me/blog/svb-collapse/)
