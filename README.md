@@ -10,11 +10,11 @@
 - [ArgusGuardian/argusguardian](https://github.com/ArgusGuardian/argusguardian) - Profile Summary
 ### ⭐ Recent Stars:
 
+- [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) - The agent that grows with you
+- [directus-labs/agency-os](https://github.com/directus-labs/agency-os) - The open source operating system for digital agencies. Built with Directus and Nuxt.
 - [willchen96/mike](https://github.com/willchen96/mike) - OSS AI Legal Platform
 - [JCodesMore/ai-website-cloner-template](https://github.com/JCodesMore/ai-website-cloner-template) - Clone any website with one command using AI coding agents
 - [stainlu/hermes-labyrinth](https://github.com/stainlu/hermes-labyrinth) - Read-only observability plugin for Hermes Agent: journeys, crossings, guideposts, and reports.
-- [open-mercato/open-mercato](https://github.com/open-mercato/open-mercato) - AI-Engineering Foundation Framework built with AI and designed for AI. Hundreds of architectural and domain decisions (multi-tenancy, RBAC,  event flow, pricing, sales pipeline,CRM/ERP processes) are already made conventions and specs so agents (Cursor, Claude Code, Codex) arch. decisions without reinventing.  Ship production grade with AI Agents.
-- [Kocoro-lab/Shannon](https://github.com/Kocoro-lab/Shannon) - A production-oriented multi-agent orchestration framework.
 ### 📰 Recent Blog Posts:
 
 - [SVB, First block?](https://alaaelhannaoui.me/blog/svb-collapse/)
