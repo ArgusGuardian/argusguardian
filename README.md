@@ -10,11 +10,11 @@
 - [ArgusGuardian/argusguardian](https://github.com/ArgusGuardian/argusguardian) - Profile Summary
 ### ⭐ Recent Stars:
 
+- [agno-agi/agno](https://github.com/agno-agi/agno) - Build, run, and manage agent platforms.
 - [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) - The agent that grows with you
 - [directus-labs/agency-os](https://github.com/directus-labs/agency-os) - The open source operating system for digital agencies. Built with Directus and Nuxt.
 - [willchen96/mike](https://github.com/willchen96/mike) - OSS AI Legal Platform
 - [JCodesMore/ai-website-cloner-template](https://github.com/JCodesMore/ai-website-cloner-template) - Clone any website with one command using AI coding agents
-- [stainlu/hermes-labyrinth](https://github.com/stainlu/hermes-labyrinth) - Read-only observability plugin for Hermes Agent: journeys, crossings, guideposts, and reports.
 ### 📰 Recent Blog Posts:
 
 - [SVB, First block?](https://alaaelhannaoui.me/blog/svb-collapse/)
