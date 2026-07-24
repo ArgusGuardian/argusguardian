@@ -10,11 +10,11 @@
 - [ArgusGuardian/argusguardian](https://github.com/ArgusGuardian/argusguardian) - Profile Summary
 ### ⭐ Recent Stars:
 
+- [triggerdotdev/trigger.dev](https://github.com/triggerdotdev/trigger.dev) - Trigger.dev – build and deploy fully‑managed AI agents and workflows
 - [fathah/hermes-desktop](https://github.com/fathah/hermes-desktop) - Desktop Companion for Hermes Agent
 - [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) - Give your AI agent eyes to see the entire internet. Read &amp; search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.
 - [cortezaproject/corteza](https://github.com/cortezaproject/corteza) - Low-code platform
 - [omkarcloud/botasaurus](https://github.com/omkarcloud/botasaurus) - The All in One Framework to Build Undefeatable Scrapers
-- [makeplane/plane](https://github.com/makeplane/plane) - 🔥🔥🔥 Open-source Jira, Linear, Monday, and ClickUp alternative. Plane is a modern project management platform to manage tasks, sprints, docs, and triage.
 ### 📰 Recent Blog Posts:
 
 - [SVB, First block?](https://alaaelhannaoui.me/blog/svb-collapse/)
