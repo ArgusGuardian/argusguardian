@@ -10,11 +10,11 @@
 - [ArgusGuardian/argusguardian](https://github.com/ArgusGuardian/argusguardian) - Profile Summary
 ### ⭐ Recent Stars:
 
+- [Aryan-Techie/omarchy-todoist](https://github.com/Aryan-Techie/omarchy-todoist) - Keyboard-first Todoist bar widget for the Omarchy Linux desktop
 - [espressif/esp-claw](https://github.com/espressif/esp-claw) - ESP-Claw, a &#34;Chat Coding&#34; AI agent framework for IoT devices
 - [3cx/agentic-call-control](https://github.com/3cx/agentic-call-control) - 
 - [duixcom/Duix-Avatar](https://github.com/duixcom/Duix-Avatar) - 🚀 Truly open-source AI avatar(digital human) toolkit for offline video generation and digital human cloning.
 - [jln13x/ui.jln.dev](https://github.com/jln13x/ui.jln.dev) - 10000&#43; Themes for shadcn/ui. 
-- [HKUDS/VideoAgent](https://github.com/HKUDS/VideoAgent) - &#34;VideoAgent: All-in-One Agentic Framework for Video Understanding, Editing, and Remaking&#34;
 ### 📰 Recent Blog Posts:
 
 - [SVB, First block?](https://alaaelhannaoui.me/blog/svb-collapse/)
