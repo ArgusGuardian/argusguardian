@@ -10,11 +10,11 @@
 - [ArgusGuardian/argusguardian](https://github.com/ArgusGuardian/argusguardian) - Profile Summary
 ### ⭐ Recent Stars:
 
+- [zed-industries/zed](https://github.com/zed-industries/zed) - Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
+- [odysseus-dev/odysseus](https://github.com/odysseus-dev/odysseus) - Self-hosted AI workspace. 
 - [Aryan-Techie/omarchy-todoist](https://github.com/Aryan-Techie/omarchy-todoist) - Keyboard-first Todoist bar widget for the Omarchy Linux desktop
 - [espressif/esp-claw](https://github.com/espressif/esp-claw) - ESP-Claw, a &#34;Chat Coding&#34; AI agent framework for IoT devices
 - [3cx/agentic-call-control](https://github.com/3cx/agentic-call-control) - 
-- [duixcom/Duix-Avatar](https://github.com/duixcom/Duix-Avatar) - 🚀 Truly open-source AI avatar(digital human) toolkit for offline video generation and digital human cloning.
-- [jln13x/ui.jln.dev](https://github.com/jln13x/ui.jln.dev) - 10000&#43; Themes for shadcn/ui. 
 ### 📰 Recent Blog Posts:
 
 - [SVB, First block?](https://alaaelhannaoui.me/blog/svb-collapse/)
