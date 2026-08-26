@@ -6,15 +6,16 @@
 
 ### 🌱 My latest projects:
 
+- [ArgusGuardian/omarchy-freemodels](https://github.com/ArgusGuardian/omarchy-freemodels) - Omarchy bar widget tracking every currently-free AI model (ClawLabsAI/free-ai-models tracker)
 - [ArgusGuardian/followup_engine](https://github.com/ArgusGuardian/followup_engine) - followup_engine
 - [ArgusGuardian/argusguardian](https://github.com/ArgusGuardian/argusguardian) - Profile Summary
 ### ⭐ Recent Stars:
 
-- [zed-industries/zed](https://github.com/zed-industries/zed) - Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
-- [odysseus-dev/odysseus](https://github.com/odysseus-dev/odysseus) - Self-hosted AI workspace. 
-- [Aryan-Techie/omarchy-todoist](https://github.com/Aryan-Techie/omarchy-todoist) - Keyboard-first Todoist bar widget for the Omarchy Linux desktop
-- [espressif/esp-claw](https://github.com/espressif/esp-claw) - ESP-Claw, a &#34;Chat Coding&#34; AI agent framework for IoT devices
-- [3cx/agentic-call-control](https://github.com/3cx/agentic-call-control) - 
+- [roryclear/clearcam](https://github.com/roryclear/clearcam) - Add object detection, tracking, mobile notifications, and search to any security camera.
+- [ClawLabsAI/free-ai-models](https://github.com/ClawLabsAI/free-ai-models) - Daily-updated list of every free AI model available right now
+- [am-will/gooey-pi](https://github.com/am-will/gooey-pi) - Desktop workspace for Pi, OMP, and Prime Agent
+- [pingdotgg/t3code](https://github.com/pingdotgg/t3code) - 
+- [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi) - ⌥ Coding agent with the IDE wired in
 ### 📰 Recent Blog Posts:
 
 - [SVB, First block?](https://alaaelhannaoui.me/blog/svb-collapse/)
